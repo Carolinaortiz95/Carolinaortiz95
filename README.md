@@ -1,5 +1,3 @@
-(https://programaenlinea.net/wp-content/uploads/2018/02/developer.jpg)
-
 <h1 align="center">Hola 👋, soy Carolina</h1>
 <h3 align="center">Full Stack Developer from Córdoba, Argentina</h3>
 
