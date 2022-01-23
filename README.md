@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/Carolinaortiz95/Carolinaortiz95/blob/main/Carolina%20Ortiz.jpg"/>
+
 
 
 <h1 align="center">Hola 👋, soy Carolina</h1>
