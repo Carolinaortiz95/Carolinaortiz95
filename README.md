@@ -1,5 +1,5 @@
 
-<img width="100%" height="10%" src="https://github.com/Carolinaortiz95/Carolinaortiz95/blob/main/Carolina%20Ortiz.jpg"/>
+<img width="100%" src="https://github.com/Carolinaortiz95/Carolinaortiz95/blob/main/Carolina%20Ortiz.jpg"/>
 
 <h1 align="center">Hola 👋, soy Carolina</h1>
 <h3 align="center">Full Stack Developer from Córdoba, Argentina</h3>
