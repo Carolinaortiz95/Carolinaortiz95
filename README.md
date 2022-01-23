@@ -19,10 +19,18 @@
 
 
 
+
+
 <h3 align="left">Proyectos:</h3>
 
 [Proyecto Individual - PI FOOD](https://github.com/Carolinaortiz95/ProyectoIndividual)
 - Proyecto individual SPA (Single Page Aplication) Apliqué mis conocimientos como Full-Stack para realizar una Aplicación web referida a recetas para el Bootcamp. Lo realice consumiendo una API en donde aplique filtros (por tipo de dieta) y ordenamiento (orden alfabético y por puntaje) realizados a código puro. También se realizo un formulario controlado y validado para la creación de una nueva receta. No se utilizo ningún tipo de librería externa para los estilos. Tecnologías: Lenguaje: JavaScript. Front-End: React | Redux | Hooks | HTML | CSS Module. Back-End: Node.Js | Express. Base de datos: PostgreSQL | Sequalize.
+
+
+ <code><img width="30%" src=https://github.com/Carolinaortiz95/Carolinaortiz95/blob/main/1.jpeg></code>
+ <code><img width="30%" src=https://github.com/Carolinaortiz95/Carolinaortiz95/blob/main/3.jpeg></code>
+ <code><img width="30%" src=https://github.com/Carolinaortiz95/Carolinaortiz95/blob/main/2.jpeg></code>
+ 
 
 
 
